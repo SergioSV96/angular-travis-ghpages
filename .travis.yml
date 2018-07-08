@@ -1,6 +1,6 @@
 language: node_js # Building with node js
 node_js:
-    - stable # Download the stable node version
+    - node # Download the latest node version
 
 # Blocklist
 branches:
